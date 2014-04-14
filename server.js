@@ -40,4 +40,4 @@ function error(err, res) {
   res.end(err.stack);
 }
 
-server.listen(process.env.HOST || 3000);
+server.listen(process.env.PORT || 3000);
