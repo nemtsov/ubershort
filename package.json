@@ -1,0 +1,14 @@
+{
+  "name": "ubershort",
+  "description": "In-memory URL minifier",
+  "version": "0.1.0",
+  "main": "./lib/index.js",
+  "tags": [
+    "tiny",
+    "url",
+    "shortener"
+  ],
+  "scripts": {
+    "test": "node test/index-test.js"
+  }
+}
